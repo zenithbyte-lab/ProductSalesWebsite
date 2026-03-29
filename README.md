@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1EK411h7QG
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的周边产品销售网站，分为管理后台和用户网页端，可以给管理员和普通用户角色使用，包括商品分类模块、商品信息模块、订单评价模块、销售统计模块和系统基础模块，项目编号T061。
 
